@@ -1,6 +1,14 @@
 #!/bin/bash
-# Author: admin@serverOk.in
-# Web: https://www.serverok.in
+############################################################
+# Squid Proxy Installer
+# Author: Hostycare
+# Email: support@hostycare.com
+# Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
+# Web: https://www.hostycare.com/
+# If you need professional assistance, reach out to
+# Email : support@hostycare.com
+# https://www.hostycare.com/contact-us
+############################################################
 
 IP_ALL=$(/sbin/ip -4 -o addr show scope global | awk '{gsub(/\/.*/,"",$4); print $4}')
 

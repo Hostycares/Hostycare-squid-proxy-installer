@@ -1,7 +1,7 @@
 '''
 Squid Installer
 Author: support@hostycare.com
-Blog: https://blog.hostonnet.com
+Blog: https://hostycare.com
 '''
 
 from fabric.api import *

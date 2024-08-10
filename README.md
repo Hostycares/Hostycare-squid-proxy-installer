@@ -1,6 +1,6 @@
 # Squid Proxy Installer
 
-https://serverok.in/squid
+https://www.hostycare.com/contact-us
 
 Auto install Squid 3 proxy on following linux OS.
 
@@ -22,9 +22,7 @@ sudo bash squid3-install.sh
 
 ## Videos - How to install Squid Proxy Server.
 
-[![How to install Squid Proxy Server in DigitalOcean VPS](https://i.imgur.com/eGt5nmB.png)](https://rumble.com/vdswgv-install-squid-proxy-server-in-digitalocean-vps.html)
-
-https://rumble.com/vdswgv-install-squid-proxy-server-in-digitalocean-vps.html
+[How to install Squid Proxy Server in Hostycare VPS]( https://www.youtube.com/watch?v=miYLwajjk2g&t=211s )
 
 
 # Create Proxy Users
@@ -72,10 +70,10 @@ sudo bash squid-conf-ip.sh
 
 Default squid proxy port is 3128. This blog post will show how to change squid port.
 
-https://serverok.in/how-to-change-port-of-squid-proxy-server
+https://www.hostycare.com/contact-us
 
 # Support
 
 If you need professional assistance, reach out to
 
-https://serverok.in/contact
+https://www.hostycare.com/contact-us

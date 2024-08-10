@@ -1,9 +1,16 @@
 #!/usr/bin/php
 <?php
 
-# Squid Installer
-# Author: admin@hostonnet.com
-# Blog: https://blog.hostonnet.com
+############################################################
+# Squid Proxy Installer
+# Author: Hostycare
+# Email: support@hostycare.com
+# Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
+# Web: https://www.hostycare.com/
+# If you need professional assistance, reach out to
+# Email : support@hostycare.com
+# https://www.hostycare.com/contact-us
+############################################################
 
 require "./config.php";
 $servers = file("servers.txt");

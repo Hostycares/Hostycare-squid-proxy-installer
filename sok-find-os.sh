@@ -2,12 +2,13 @@
 
 ############################################################
 # Squid Proxy Installer
-# Author: Yujin Boby
-# Email: admin@serverOk.in
-# Github: https://github.com/serverok/squid-proxy-installer/
-# Web: https://serverok.in/squid
+# Author: Hostycare
+# Email: support@hostycare.com
+# Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
+# Web: https://www.hostycare.com/
 # If you need professional assistance, reach out to
-# https://serverok.in/contact
+# Email : support@hostycare.com
+# https://www.hostycare.com/contact-us
 ############################################################
 
 if cat /etc/os-release | grep PRETTY_NAME | grep "Ubuntu 24.04" > /dev/null; then
