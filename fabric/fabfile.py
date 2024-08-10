@@ -1,6 +1,6 @@
 '''
 Squid Installer
-Author: admin@hostonnet.com
+Author: support@hostycare.com
 Blog: https://blog.hostonnet.com
 '''
 
