@@ -42,7 +42,7 @@ SOK_OS=$(/usr/bin/sok-find-os)
 if [ $SOK_OS == "ERROR" ]; then
     cat /etc/*release
     echo -e "\nOS NOT SUPPORTED.\n"
-    echo -e "Contact me on twitter/X (https://twitter.com/serverokin) to add support for your OS.\n"
+    echo -e "Contact us on website (https://hostycare.com) to add support for your OS.\n"
     exit 1;
 fi
 
